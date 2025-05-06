@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "mentalcoach.app",
+      "sha256_cert_fingerprints": [
+        "D5641B80238C3E2DB2771A26BE6568C3A75AFBF0D111742C7123ECC622392E0D"
+      ]
+    }
+  }
+]
